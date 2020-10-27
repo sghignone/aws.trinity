@@ -1,1 +1,1 @@
-# aws.trinity
+# aws.trinityrnaseq
